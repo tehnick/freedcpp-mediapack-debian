@@ -1,3 +1,18 @@
+freedcpp-mediapack (0.0.3-0ppa2~xenial1) xenial; urgency=medium
+
+  * Rewrite debian/rules from cdbs to dh.
+  * Bump debhelper version to 9 (was 6); update debian/compat.
+  * Bump Standards-Version to 3.9.6 (was 3.9.3): no changes required.
+  * Use package format 3.0 (quilt).
+  * Update debian/control:
+    - add Vcs-* fields
+    - delete outdated packages from Depends of binary package
+    - update short and long descriptions of binary package
+  * Add debian/copyright.
+  * Delete debian/docs.
+
+ -- Boris Pek <tehnick@debian.org>  Mon, 08 Feb 2016 01:01:15 +0300
+
 freedcpp-mediapack (0.0.3-0ppa1) maverick; urgency=low
 
   * Update to release 0.0.3.
