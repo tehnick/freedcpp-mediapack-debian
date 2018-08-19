@@ -2,4 +2,3 @@
 
 %:
 	dh $@ --parallel --list-missing
-
