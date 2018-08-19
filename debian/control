@@ -3,10 +3,10 @@ Section: net
 Priority: optional
 Maintainer: Boris Pek <tehnick@debian.org>
 Build-Depends: debhelper (>= 9)
-Homepage: http://code.google.com/p/freedcpp/
+Homepage: https://code.google.com/p/freedcpp/
 Vcs-Git: https://github.com/tehnick/freedcpp-mediapack-debian.git
 Vcs-Browser: https://github.com/tehnick/freedcpp-mediapack-debian
-Standards-Version: 3.9.6
+Standards-Version: 4.2.0
 
 Package: freedcpp-mediapack
 Architecture: all
