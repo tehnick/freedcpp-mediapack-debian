@@ -1,3 +1,16 @@
+freedcpp-mediapack (0.0.3-0ppa3~cosmic1) cosmic; urgency=medium
+
+  * Update debian/control:
+    - bump Standards-Version to 4.2.0 (was 3.9.6): no changes required
+    - use https URL in Homepage field
+  * Update debian/copyright:
+    - use https URL in Format field
+    - update emails and years
+  * Update debian/rules:
+    fix lintian note file-contains-trailing-whitespace.
+
+ -- Boris Pek <tehnick@debian.org>  Sun, 19 Aug 2018 12:42:07 +0300
+
 freedcpp-mediapack (0.0.3-0ppa2~xenial1) xenial; urgency=medium
 
   * Rewrite debian/rules from cdbs to dh.
