@@ -1,3 +1,12 @@
+freedcpp-mediapack (0.0.3-0ppa4~disco1) disco; urgency=medium
+
+  * Bump Standards-Version to 4.3.0 (was 4.2.0): no changes required.
+  * Update package description in debian/control.
+  * Update years in debian/copyright.
+  * Simplify debian/rules.
+
+ -- Boris Pek <tehnick@debian.org>  Mon, 18 Mar 2019 01:33:29 +0300
+
 freedcpp-mediapack (0.0.3-0ppa3~cosmic1) cosmic; urgency=medium
 
   * Update debian/control:
