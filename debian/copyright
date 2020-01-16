@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Debianized-By: Boris Pek <tehnick-8@yandex.ru>
 Debianized-Date: Mon, 18 Jan 2010 00:00:38 +0300
-Upstream-Name: Psi+ resources
+Upstream-Name: FreeDC++ resources
 Upstream-Contact: troll <freedcpp@narod.ru>
 Source: https://code.google.com/archive/p/freedcpp/downloads
  The orig.tar.bz2 is just renamed upstream tarball (without changes).
@@ -13,7 +13,7 @@ License: unknown
  are not documented.
 
 Files: debian/*
-Copyright: 2010-2019 Boris Pek <tehnick-8@yandex.ru>
+Copyright: 2010-2020 Boris Pek <tehnick-8@yandex.ru>
 License: Expat
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal
