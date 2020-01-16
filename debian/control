@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 9)
 Homepage: https://code.google.com/p/freedcpp/
 Vcs-Git: https://github.com/tehnick/freedcpp-mediapack-debian.git
 Vcs-Browser: https://github.com/tehnick/freedcpp-mediapack-debian
-Standards-Version: 4.3.0
+Standards-Version: 4.4.1
 
 Package: freedcpp-mediapack
 Architecture: all
