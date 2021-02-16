@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 9)
 Homepage: https://code.google.com/p/freedcpp/
 Vcs-Git: https://github.com/tehnick/freedcpp-mediapack-debian.git
 Vcs-Browser: https://github.com/tehnick/freedcpp-mediapack-debian
-Standards-Version: 4.5.0
+Standards-Version: 4.5.1
 Rules-Requires-Root: no
 
 Package: freedcpp-mediapack
@@ -16,6 +16,6 @@ Description: emoticons and sounds for FreeDC++
  Package contains collection of emoticons and sounds for FreeDC++.
  .
  FreeDC++ is a program for UNIX-like systems that uses the Direct Connect and
- Advanced Direct Connect protocols. It is compatible with DC++, EiskaltDC++,
- FlylinkDC++, LinuxDC++ and other DC clients. FreeDC++ also interoperates with
+ Advanced Direct Connect protocols. It is compatible with EiskaltDC++, DC++,
+ AirDC++, FlylinkDC++ and other DC clients. FreeDC++ also interoperates with
  all common DC hub software.
