@@ -1,3 +1,12 @@
+freedcpp-mediapack (0.0.3-0ppa7~impish1) impish; urgency=medium
+
+  * Rebuild for new version of Ubuntu.
+  * Replace build dependency from debhelper to debhelper-compat (= 11).
+  * Remove debian/compat.
+  * Update years in debian/copyright.
+
+ -- Boris Pek <tehnick@debian.org>  Sun, 25 Apr 2021 01:48:57 +0300
+
 freedcpp-mediapack (0.0.3-0ppa6~hirsute1) hirsute; urgency=medium
 
   * Rebuild for new version of Ubuntu.
